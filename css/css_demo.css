@@ -1,0 +1,39 @@
+code {
+    background-color: #eeeeee;
+    border:1px solid #4e4e4e;
+    width:300px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url("background.jpg"); /*圖片來源:https://www.pexels.com/photo/white-painted-wall-1939485/ */
+}
+
+h1 {
+    text-align: center;
+    font-size: 250%;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    padding: 20px;
+    line-height: 2em;
+}
+
+button {
+    color: blue;
+    background-color: yellow;
+}
+
+form {
+    text-align: center;
+}
+
+img {
+    text-align: right;
+    width:100px;height: 100px;
+}
